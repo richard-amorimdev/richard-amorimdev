@@ -12,7 +12,7 @@
 
 ### 📡 Connect with me
 
-<a href="mailto:richardamorimdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C1C335?style=for-the-badge&logo=gmail&logoColor=080843"></a><a href="www.linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-1D1DE2?style=for-the-badge&logo=linkedin&logoColor=080843"></a>
+<a href="mailto:richardamorimdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C1C335?style=for-the-badge&logo=gmail&logoColor=080843"></a><a href="www.linkedin.com/in/richard-artismo-amorim-120086273"><img src="https://img.shields.io/badge/-LinkedIn-1D1DE2?style=for-the-badge&logo=linkedin&logoColor=080843"></a>
 
 ---
 
