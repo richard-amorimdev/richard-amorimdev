@@ -24,7 +24,7 @@
 
 ### Back-end
 
-![Back-end Development Skills](https://skillicons.dev/icons?i=java,spring,nodejs,php,python,typescript,javascript)
+![Back-end Development Skills](https://skillicons.dev/icons?i=java,spring,nodejs,php,typescript,javascript)
 
 ### Front-end
 
