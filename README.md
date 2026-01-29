@@ -18,7 +18,7 @@
 
 ### Tools
 
-![Development Tools](https://skillicons.dev/icons?i=postman,git,github,figma,vercel,cypress,windows,vscode,intellij)
+![Development Tools](https://skillicons.dev/icons?i=postman,git,github,figma,vercel,cypress,windows,vscode,idea)
 
 ### Back-end
 
